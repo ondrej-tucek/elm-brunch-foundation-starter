@@ -1,0 +1,20 @@
+
+$breakpoint-classes: (small medium large xlarge xxlarge);
+
+
+$input-number-spinners: false;
+$input-background: #CCFF90;
+$input-background-disabled: lightgray;
+$input-background-focus: transition;
+$buttongroup-spacing: rem-calc(10);
+$button-responsive-expanded: true;
+$mediaobject-section-padding: 0;
+
+.text--color {
+    color: #3adb76;
+}
+
+.version--width {
+    width: 230px;
+    min-width: 100%;
+}

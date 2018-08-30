@@ -1,0 +1,17 @@
+@import 'settings';
+
+.btn--turn-on {
+    background-color: lightblue;
+}
+
+.btn--turn-off {
+    background-color: lightcoral;
+}
+
+.btn-set-values--activate {
+    background-color: $input-background;
+}
+
+.btn--width {
+    width: 100px;
+}

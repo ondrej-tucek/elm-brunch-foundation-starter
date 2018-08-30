@@ -1,0 +1,25 @@
+{
+  "repository": {},
+  "license": "MIT",
+  "scripts": {
+    "start": "brunch watch --server",
+    "deploy": "brunch build --production"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "assetsmanager-brunch": "^1.8.1",
+    "auto-reload-brunch": "^2.7.1",
+    "autoprefixer": "^7.2.5",
+    "babel-brunch": "6.1.1",
+    "babel-preset-env": "^1.7.0",
+    "brunch": "2.10.15",
+    "clean-css-brunch": "2.10.0",
+    "elm": "~0.18.0",
+    "elm-brunch": "^0.10.0",
+    "foundation-icons": "^1.0.1",
+    "foundation-sites": "^6.5.0-rc.2",
+    "postcss-brunch": "^2.1.0",
+    "sass-brunch": "^2.10.4",
+    "uglify-js-brunch": "2.10.0"
+  }
+}
